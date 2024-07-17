@@ -1,2 +1,3 @@
 # PrepCourse-Hen
-Mi maldita tercer prueba de crear un repositorio en Henry
+esta vez si me va a quedar la prueba de como clonar un repositorio desde github a mi pc
+
